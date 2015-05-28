@@ -1,0 +1,22 @@
+{
+  "name": "Tasker",
+  "version": "0.5.0",
+  "description": "MEAN task manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharlesPowell/Tasker.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "CharlesPowell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlesPowell/Tasker/issues"
+  },
+  "homepage": "https://github.com/CharlesPowell/Tasker"
+}
